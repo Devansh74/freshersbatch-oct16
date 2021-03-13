@@ -1,0 +1,3 @@
+This is readme file. Here you can find information about the assignments.
+this is the first change.
+this is the second change.
