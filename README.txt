@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<< HEAD
 this change is from master branch<<<<<<< HEAD
 =======
 This section is for javascript <<<<<<< HEAD
